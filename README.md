@@ -2,7 +2,7 @@
 
 
 # YGGDRASIL - EMS (Exam Management Portal) using MERN stack technology
-This repository contains the frontend code for the yggdrasil . Make sure to check out the backend of the project, which is available [here](https://github.com/noobCode-69/yggdrasil-backend)
+This repository contains the frontend code for the yggdrasil . Make sure to check out the backend of the project, which is available [here](https://github.com/shubhaminnovates/Exam-Management-System-Backend)
 
 # Technologies
 
